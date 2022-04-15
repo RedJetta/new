@@ -25,8 +25,9 @@
 <div class="container">
     <div class="row">
         <div class="col-2">
-            <div class="d-grid gap-2">
-                <button class="btn btn-primary" type="button">Button</button>
-                <button class="btn btn-primary" type="button">Button</button>
-            </div>
         </div>
+        <div class="col">
+            Column
+        </div>
+        <div class="col-2">
+
