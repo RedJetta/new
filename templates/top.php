@@ -11,7 +11,8 @@
 </head>
 <body>
 <div class="header">
-    <h1 class="logotext"> Niggers </h1>
+    <a href="#" class="logotext"> LOGIN </a><br>
+    <a href="#" class="logotext"> REGISTER </a>
     <img class="logo" src="media/images/picka.png"/>
 </div>
 <div class="menu">
