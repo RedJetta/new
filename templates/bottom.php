@@ -1,4 +1,6 @@
-        Column
+</div>
+<div class="col-2">
+Column
         </div>
     </div>
 </div>
